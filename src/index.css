@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: black;
+  background-size: cover;
+  backdrop-filter: blur(100px); /* Adjust blur amount as needed */
+}
